@@ -1,2 +1,3 @@
 # OS-Assignment-2021-Mutex-Simulator
-Just 4 Recording
+ 1 file for all, almost completely unreusable  
+ No guide, just 4 Recording
